@@ -46,7 +46,7 @@ function changePositionElements() {
     ><img class="footer-link__icon"src="../images/icons-header/v.2/Twitter.svg" alt="Twitter"
   /></a></div>
     <div class="footer-link">
-    <a href="https://www.vk.com/mastrildar" target="_blank" class="footer-link">
+    <a href="https://vk.com/pleasentildar" target="_blank" class="footer-link">
     <img class="footer-link__icon"src="../images/icons-header/v.2/VK.svg" alt="VK" />
   </a></div>`;
     
