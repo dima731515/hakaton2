@@ -2,28 +2,7 @@ window.addEventListener("resize", changePositionElements);
 
 function changePositionElements() {
   if (window.outerWidth < 481) {
-    document.querySelector(".hero").innerHTML = `
-  <div class="hero__title__container">
-    <h1 class="hero__title">ПРИЯТНЫЙ ИЛЬДАР</h1>
-  </div>
-  <div class="description__image">
-    <img class="hero-description__image" src="../images/Badge.png" alt="" />
-  </div>
-  <div class="hero__description">
-    <p class="description__text">
-      Меня зовут Ильдар, и по слухам я приятный молодой человек. Снимаю разноформатные ролики, начиная от скетчей, заканчивая рассуждениями на
-      какую-либо тему.
-    </p>
-  </div>
-  <a href="https://www.youtube.com/@pleasantildar" target="_blank" class="hero__button button">
-    <div class="button__content">
-      <div class="button-content__arrow__container">
-        <img class="button__arrow" src="../images/button-arrow.svg" alt="" />
-        <img class="button__arrow_y invisible" src="../images/button-arrow_y.svg" alt="" />
-      </div>
-      <p class="content__text">СМОТРЕТЬ<br />НА YOUTUBE</p>
-    </div>
-  </a>`;
+    
 
     
     document.querySelector(".prediction__content").innerHTML = `
