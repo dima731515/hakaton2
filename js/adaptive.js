@@ -35,7 +35,7 @@ function changePositionElements() {
     <div class="content__image__container">
       <img class="content-image-container__image" src="../images/prediction-image.png" alt="" />
     </div>
-    <a href="" class="content-description__button button">
+    <a href="https://t.me/PriyatniyIldar_bot" target="_blank" class="content-description__button button">
       <div class="button__content">
         <div class="button-content__arrow__container">
           <img class="button__arrow" src="../images/button-arrow.svg" alt="" />
