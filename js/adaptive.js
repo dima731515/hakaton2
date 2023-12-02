@@ -70,7 +70,7 @@ function changePositionElements() {
     <a href="https://www.vk.com/mastrildar" target="_blank" class="footer-link">
     <img class="footer-link__icon"src="../images/icons-header/v.2/VK.svg" alt="VK" />
   </a></div>`;
-    document.querySelector(".phone__image").src = "../images/phone-mobile.png";
+    
     document.querySelector(".statistics__wrapper").innerHTML = `
     <p class="statistics__text"><span class="statistics__numbers">100% </span> ЛОЯЛЬНОЙ АУДИТОРИИ</p>
     <p class="statistics__text"><span class="statistics__numbers">238 000 </span> ПОДПИСЧИКОВ В TELEGRAM</p>
