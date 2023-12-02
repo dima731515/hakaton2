@@ -287,6 +287,10 @@ body {
   flex-direction: column;
 }
 
+.hero_mobile {
+  display: none;
+}
+
 .hero__title__container {
   position: relative;
   margin-bottom: 0px;
@@ -656,6 +660,14 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  .hero_desctop {
+    display: none;
+  }
+
+  .hero_mobile {
+    display: flex;
   }
 
   .hero__title__container {
