@@ -25,7 +25,7 @@ function changePositionElements() {
     </div>
   </a>`;
 
-    document.querySelectorAll(".promo__message").forEach((item) => (item.style.display = "none"));
+    
     document.querySelector(".prediction__content").innerHTML = `
     <div class="content__description">
     <img class="content-description__image" src="../images/chat-bubble.svg" alt="" />
